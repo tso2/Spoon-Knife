@@ -10,4 +10,5 @@ For some more information on how to fork a repository, [check out our guide, "Fo
 
 
 Hello Tyler after removing conflict area
+Changing stuff from inside IDEA
 
